@@ -15,5 +15,14 @@
     "url": "https://github.com/react-agents-registry/tts/issues"
   },
   "homepage": "https://github.com/react-agents-registry/tts#readme",
-  "description": ""
+  "description": "",
+  "pluginConfig": {
+    "type": "react-agents:1.0.0",
+    "parameters": {
+      "voiceEndpoint": {
+        "type": "string",
+        "examples": ["elevenlabs:kadio:YkP683vAWY3rTjcuq2hX"]
+      }
+    }
+  }
 }
