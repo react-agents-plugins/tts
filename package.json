@@ -1,5 +1,5 @@
 {
-  "name": "tts",
+  "name": "@react-agents-plugins/tts",
   "version": "0.0.1",
   "main": "tts.tsx",
   "scripts": {
